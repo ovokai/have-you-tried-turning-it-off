@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
-  "Have you tried turning it off and on again? Your despair, I mean. The laptop's been fine all day.";
+  "Have you tried turning it off and on again? Not the laptop — you. You've been buffering since Tuesday, and at this point it's less a glitch than a lifestyle.";
 
 function main(): void {
   try {
